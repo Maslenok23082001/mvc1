@@ -6,7 +6,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Effloresce  by FCT</title>
     <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
-    <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="/public/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
 <div id="menu-wrapper">
